@@ -14,3 +14,6 @@ Analyzed online retail data to answer 4 business-critical questions for the CEO 
 
 
 ✅ **Skills Used**: Data cleaning, DAX, conditional filtering, Power BI visuals
+
+> 📌 Note: GitHub can’t preview `.pbix` files in-browser due to size limitations, but you can **download** the file above and open it using Power BI Desktop.
+
