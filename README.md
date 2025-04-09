@@ -17,3 +17,6 @@ Analyzed online retail data to answer 4 business-critical questions for the CEO 
 
 > 📌 Note: GitHub can’t preview `.pbix` files in-browser due to size limitations, but you can **download** the file above and open it using Power BI Desktop.
 
+📂 Download the full Power BI Dashboard here:
+[Download .pbix from Google Drive](https://drive.google.com/file/d/1mKSduFiO_hI9hm5uzjor49xU2l67gLgP/view?usp=sharing)
+
